@@ -1,8 +1,12 @@
-ebook_metadata:
+id: P000048
+initial_creation_type: ebook
+created_at: 31/01/2020
+last_modified_at: 26/11/2021
+source_metadata:
   title: ༄༅། །དྲི་ལན་ལུང་གི་གཏེར་མཛོད་དང་རྒོལ་ལན་ཆབ་ཤོག་བཅས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། རིག་འཛིན་འཇིགས་མེད་གླིང་པས་མཛད་།
-  sku: SHE-TAN-017
+  id: SHE-TAN-017
   layers:
   - book_title
   - author
